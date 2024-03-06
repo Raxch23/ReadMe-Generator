@@ -1,4 +1,4 @@
-# ReadMe-generator
+# ReadMe-Generator
 
 ## Description 
 A ReadME generator that can quickly create a professional README file for a 
