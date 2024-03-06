@@ -20,6 +20,7 @@ Run command npm run dev to have a development server up and running.
 
 ## License 
 MIT license
+![GitHub license](https://img.shields.io/badge/license-MIT-orange.svg)
 
 ## Contributing 
 N/A
