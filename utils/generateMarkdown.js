@@ -19,6 +19,8 @@ ${data.installation}
 ## Usage 
 ${data.usage}
 
+${licenseBadge(data.license)}
+
 ## License 
 ${data.license}
 
