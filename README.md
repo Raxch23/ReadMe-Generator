@@ -14,7 +14,6 @@ Writing Javascript utilising Node modules like File System and Inquirer was the 
 
 * [Deployment](#Deployment)
 * [Usage](#Usage)
-* [Badges](#Badges)
 * [Features](#Features)
 * [Contributions](#Contributions)
 
