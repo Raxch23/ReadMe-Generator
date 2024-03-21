@@ -19,8 +19,6 @@ ${data.installation}
 ## Usage 
 ${data.usage}
 
-${licenseBadge(data.license)}
-
 ## License 
 ${data.license}
 
@@ -35,4 +33,5 @@ ${data.questions}
 `;
 }
 
-module.exports = generateMarkdown;
+
+export default generateMarkdown;

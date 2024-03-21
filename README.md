@@ -1,5 +1,7 @@
 # ReadMe-Generator
 
+![GitHub license](https://img.shields.io/badge/license-MIT-orange.svg)
+
 ## Description 
 A ReadME generator that can quickly create a professional README file for a 
 new project.

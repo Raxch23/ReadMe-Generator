@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require('path');
 const inquirer = require("inquirer");
-const generateMarkdown = require("./utils/generateMarkdown");
+const generateMarkdown = require("./utils/generateMarkdown").default;
 
 // array of questions for user
 const questions = [
@@ -26,9 +26,17 @@ const questions = [
         message: 'Usage instructions?:'
     },
     {
-        type: 'input',
+        type: 'list',
         name: 'license',
-        message: 'Project license?:'
+        message: 'Project license?:',
+        choices: [
+            'MIT',
+            'GPL',
+            'Apache License 2.0',
+            'BSD',
+            'Mozilla',
+
+        ]
     },
     {
         type: 'input',
