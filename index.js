@@ -35,6 +35,7 @@ const questions = [
             'Apache License 2.0',
             'BSD',
             'Mozilla',
+            'none',
 
         ]
     },
