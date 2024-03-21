@@ -34,4 +34,4 @@ ${data.questions}
 }
 
 
-export default generateMarkdown;
+module.exports= generateMarkdown;
