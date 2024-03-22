@@ -27,8 +27,7 @@ Application Repository can be found at GitHub URL :
 
 A programme that allows users to rapidly create a simple README file by providing answers to a few questions in their terminal's command line.
 
-The application's functionality is demonstrated in the video link below, which shows how to create an example README file: https://app.screencastify.com/v2/manage/videos/U3FWWfFpKLyOWnLk35kj
-
+The application's functionality is demonstrated in the video link below, which shows how to create an example README file: https://drive.google.com/file/d/139U6yABwEniT7Z17rRvP_Z7XYdbh89HP/view
 
 ## Features
 
