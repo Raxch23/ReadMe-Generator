@@ -21,7 +21,7 @@ Writing Javascript utilising Node modules like File System and Inquirer was the 
 
 ## Deployment 
 
-Application Repository can be found at GitHub URL :https://github.com/Raxch23/ReadMe-Generator/tree/main?tab=readme-ov-file
+Application Repository can be found at GitHub URL :https://github.com/Raxch23/ReadMe-Generator
 
 ## Usage 
 
