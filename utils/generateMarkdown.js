@@ -34,4 +34,4 @@ ${data.questions}
 }
 
 
-module.exports= generateMarkdown;
+module.exports = generateMarkdown

@@ -1,8 +1,7 @@
-# ReadMe-generator
+# Readme Generator
 
 ## Description 
-A ReadME generator that can quickly create a professional README for a 
-new project.
+This permits user(s) to generate a README file promptly
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,14 +12,13 @@ new project.
 - [Questions](#questions)
 
 ## Installation 
-Run command npm install to have the node dependencies downloaded.
+User (s) have to open up thier terminal, use the command line and input node index.js and answer a list of questions
 
 ## Usage 
-Run command npm run dev to have a development server up and running.
+User (s) have to answer a list of questions for the different section of thier README file
 
 ## License 
-MIT license
-![GitHub license](https://img.shields.io/badge/license-MIT-orange.svg)
+MIT
 
 ## Contributing 
 N/A
@@ -29,4 +27,4 @@ N/A
 N/A
 
 ## Questions
-Reach out at rachiesteve@yahoo.com for any questions.
+rachiraesteve@yahoo.com

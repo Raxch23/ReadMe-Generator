@@ -1,29 +1,29 @@
 const fs = require("fs");
 const path = require('path');
 const inquirer = require("inquirer");
-const generateMarkdown = require("./utils/generateMarkdown").default;
+const generateMarkdown = require("./utils/generateMarkdown");
 
 // array of questions for user
 const questions = [
     { 
         type: 'input',
         name: 'title',
-        message: 'Project title?:'
+        message: 'Please enter the title of your Project:'
     },
     {
         type: 'input',
         name: 'description',
-        message: 'Project description?:'
+        message: 'Please provide a description and usage of your Project:'
     },
     {
         type: 'input',
         name: 'installation',
-        message: 'Installation:'
+        message: 'How can users install this application? :'
     },
     {
         type: 'input',
         name: 'usage',
-        message: 'Usage instructions?:'
+        message: 'How can your application be used?:'
     },
     {
         type: 'list',
@@ -42,12 +42,12 @@ const questions = [
     {
         type: 'input',
         name: 'contributing',
-        message: 'How to contribute to this project?:'
+        message: 'Can you provide guidelines on how to contribute to this project?:'
     },
     {
         type: 'input',
         name: 'tests',
-        message: 'How to run tests?:'
+        message: 'Is there any test instructions for your application?:'
     },
     {
         type: 'input',
